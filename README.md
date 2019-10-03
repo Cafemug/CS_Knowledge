@@ -9,6 +9,8 @@
 - 데이터베이스 : 데이터베이스 시스템
 - 네트워크 : 미정
 - 컴퓨터 구조 : 미정
+- 시스템 보안 : 미정
+- 알고리즘 : Introduction to Algorithms
 - TOPCIT
 
 ---
