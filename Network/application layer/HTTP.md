@@ -14,4 +14,7 @@ HTTP는 stateless protocol이다
 
 ## 비지속 연결과 지속연결
 
+# 비지속 연결 HTTP
+ - 비지속 연결 HTTP :  각 요구/응답 쌍이 분리된 TCP 연결을 통해 보내져야 하는 방식
 
+# 지속 연결 HTTP 
